@@ -1,2 +1,20 @@
 
-/* Your CSS Code here. */
+display: flex;
+flex-direction: row;
+front-size: 50px;
+}
+.eg1{
+	width: 200px;
+	height: 100px;
+	background-color: bura;
+}
+.eg2{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+}
+.eg3{
+	width: 200px;
+	height: 200px;
+	background-color: blue
+}
