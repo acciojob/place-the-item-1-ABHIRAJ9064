@@ -1,8 +1,8 @@
-.container {
+.main {
 display: flex;
-flex-direction: row;
 flex-wrap: wrap;
 justify-content: space-between;
+	front-size: 50px;
 align-items: center;
 }
 .item1{
